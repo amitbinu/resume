@@ -86,7 +86,7 @@ html, body{
 }
 
 .space{
-	margin-top: 5px;
+	margin-top: 7px;
 }
 
 #Education{
@@ -102,7 +102,7 @@ html, body{
 
 }
 .date{
-	right: 5px;
+	right: 10px;
 	margin: 0;
 	top: 0px;
 	position: absolute;
@@ -147,26 +147,26 @@ li{
 
 .oneline{
 	display: inline-flex;
+
 }
 
 .explanation{
-	height: 40px;
-	margin: auto 10px;
+	margin: 0;
 	font-size: 15px;
 	font-weight: 500;
-	position: relative;
-	top: 10px;
+	margin-left: 50px;
+	height: 25px;
 }
 
 .projectName{
-	height: 40px;
+	margin: auto 10px;
 	font-size: 15px;
-	margin: auto 0;
-	margin-left: 10px;
-	position: relative;
-	top: 10px;
 }
 
 .Heading h1{
 	color: #232323;
+}
+
+#Project li{
+	margin: 0;
 }
